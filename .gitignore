@@ -2,3 +2,4 @@
 *.pt
 *.json
 data_tp1
+.ipynb_checkpoints
